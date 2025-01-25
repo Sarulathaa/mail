@@ -2,3 +2,4 @@ good afternoon
 good evening
 good night
 bad
+sorry
